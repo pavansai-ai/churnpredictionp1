@@ -429,9 +429,9 @@ credit-card-churn-prediction/
 ## 📞 Contact
 
 ** PAVAN SAI P **  
-📧 Email: pakkelaai@fgmail.com  
+📧 Email: pakkelaai@gmail.com  
 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+🐙 GitHub: [github.com/yourusername](https://github.com/pavansai-ai)  
 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
